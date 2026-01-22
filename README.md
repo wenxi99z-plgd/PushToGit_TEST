@@ -12,6 +12,8 @@
 
 **Gemini Thumbnail Editor** is an AI-powered image editing tool that revolutionizes how content creators design and edit thumbnails. Built with React and powered by Google's Gemini 2.5 Flash Image model, this application makes professional thumbnail creation accessible to everyone.
 
+This is a test for my first PUSH
+
 ### ✨ Key Features
 
 - **🤖 AI-Powered Editing**: Use natural language prompts to edit images with Google's Gemini AI
